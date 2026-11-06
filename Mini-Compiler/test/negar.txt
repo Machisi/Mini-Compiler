@@ -1,0 +1,8 @@
+integer i
+i = 3
+
+if -i != -3
+    print "ERROR!"
+else
+    print "OK: Funciona el operador 'negar'"
+end
