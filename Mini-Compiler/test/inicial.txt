@@ -1,2 +1,0 @@
-contador = 25 + 3
-resultado = (contador - 2) * 4
